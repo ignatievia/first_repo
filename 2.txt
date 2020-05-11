@@ -1,1 +1,2 @@
-I tut text
+Changed line
+Plus one line of cfg
